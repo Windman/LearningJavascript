@@ -1,3 +1,4 @@
+'use strict';
 var pizzas;
 function handleFileSelect(evt) {
     var files = evt.target.files; // FileList object
